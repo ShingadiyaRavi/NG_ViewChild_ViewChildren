@@ -1,0 +1,7 @@
+task-03
+view child
+view children
+
+
+ViewChild() work only one first same reference.
+ViewChildren() children work with the multiple references.
